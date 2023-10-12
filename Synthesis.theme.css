@@ -14,18 +14,18 @@
 
 /* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
-    --synth-background-image:   url(https://saltssaumure.github.io/synthesis-discord-theme/backgrounds/default.avif);
+    --synth-background-image:   url();
     --synth-backdrop-opacity:   0.3         ;
-    --synth-overlay-color:      255 165 0   ;
+    --synth-overlay-color:      255 35 0   ;
     --synth-crt-light:          255 255 255 ;
     --synth-crt-dark:           0   0   0   ;
     --synth-crt-flicker:        none        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 
     --synth-color-background:   20  6   36  ;
-    --synth-color-foreground:   255 165 0   ;
+    --synth-color-foreground:   255 60 60   ;
     --synth-color-shadow:       0   0   128 ;
     --synth-color-button:       84  63  251 ;
-    --synth-color-pop:          206 63  251 ;
+    --synth-color-pop:          255 120 120 ;
     --synth-color-blurple:      88  101 242 ;
     --synth-color-text:         255 255 255 ;
 
